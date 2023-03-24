@@ -1,0 +1,74 @@
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+    border-width: 2px;
+    border-color: brown;
+}
+
+.picture{
+    background-color: none;
+}
+
+h2 {
+    text-align: center;
+    background-color: bisque;
+}
+
+body {
+    background-image: url(https://westontoday.news/img_2023/piano_as-5552971_%20pavel-losevsky.jpg);
+    font-family: cursive;
+    padding: 20px;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  p {
+    text-align: center;
+    font-size:medium;
+  }
+
+  blockquote {
+    text-align: center;
+    background-color: bisque;
+    font-size: larger;
+    font-style: italic;
+  }
+  
+  a {
+    color:brown;
+  }
+
+  a:hover {
+    color:aqua;
+  }
+
+  a:active {
+    color: black;
+  }
+
+  ol {
+    text-align: center;
+  }
+
+  li {
+    text-align: center;
+  }
+
+  .description {
+    background-color: beige;
+  }
+
+  section {
+    text-align: center;
+  }
+
+  .why {
+    background-color: blanchedalmond;
+  }
